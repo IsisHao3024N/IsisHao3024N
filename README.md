@@ -49,8 +49,6 @@ Gosto de aprender na prática, transformar ideias em projetos e encarar desafios
 * React e desenvolvimento de interfaces
 * Node.js e desenvolvimento backend
 * Consumo e integração de APIs
-* TypeScript
-* Bancos de dados
 * Estruturas de dados e resolução de problemas
 * Boas práticas e organização de código
 
@@ -73,7 +71,6 @@ Alguns dos projetos que fazem parte da minha jornada de desenvolvimento:
 * 🌐 **Portfólio pessoal** — desenvolvido para apresentar minha evolução, projetos e habilidades.
 * 📝 **Formulário multi-etapas** — projeto desenvolvido com HTML, CSS e JavaScript.
 * 🛒 **E-commerce** — projeto desenvolvido a partir de prototipação no Figma.
-* 💻 **Projetos Full Stack** — aplicações desenvolvidas durante minha evolução em frontend e backend.
 
 > Estou constantemente adicionando novos projetos e aprimorando os projetos existentes.
 
