@@ -5,7 +5,7 @@
 
 Tenho interesse especial no desenvolvimento de aplicações modernas, responsivas e funcionais, buscando unir uma boa experiência de usuário a um código organizado e eficiente.
 
-Atualmente, tenho experiência prática com **HTML, CSS, JavaScript, Git, GitHub e Figma**, enquanto venho aprofundando meus conhecimentos em **React, Node.js, APIs, TypeScript e bancos de dados**.
+Atualmente, tenho experiência prática com **HTML, CSS, JavaScript, Git, GitHub e Figma**, enquanto venho aprofundando meus conhecimentos em **React, Node.js e APIs,.
 
 Gosto de aprender na prática, transformar ideias em projetos e encarar desafios que me façam evoluir como desenvolvedora. Também venho trabalhando constantemente na minha capacidade de **resolver problemas, entender diferentes abordagens e escrever códigos cada vez mais organizados e eficientes**.
 
@@ -24,9 +24,6 @@ Gosto de aprender na prática, transformar ideias em projetos e encarar desafios
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
