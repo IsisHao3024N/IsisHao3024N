@@ -1,11 +1,11 @@
 # Olá! Eu sou a Izadora 👋
 <img data-importer="image" align="right" height="150" src="https://github.com/user-attachments/assets/55dd5e16-0064-4c13-be14-b16ad271a64a"  />
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-💻 **Desenvolvedora Full Stack em formação**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedora Full Stack em formação
 
 Tenho interesse especial no desenvolvimento de aplicações modernas, responsivas e funcionais, buscando unir uma boa experiência de usuário a um código organizado e eficiente.
 
-Atualmente, tenho experiência prática com **HTML, CSS, JavaScript, Git, GitHub e Figma**, enquanto venho aprofundando meus conhecimentos em **React, Node.js e APIs,.
+Atualmente, tenho experiência prática com HTML, CSS, JavaScript, Git, GitHub e Figma**, enquanto venho aprofundando meus conhecimentos em React, Node.js e APIs,.
 
 Gosto de aprender na prática, transformar ideias em projetos e encarar desafios que me façam evoluir como desenvolvedora. Também venho trabalhando constantemente na minha capacidade de **resolver problemas, entender diferentes abordagens e escrever códigos cada vez mais organizados e eficientes**.
 
