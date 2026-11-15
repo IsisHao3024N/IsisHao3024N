@@ -1,56 +1,77 @@
 # Olá! Eu sou a Izadora 👋
-<img data-importer="image" align="right" height="150" src="https://github.com/user-attachments/assets/55dd5e16-0064-4c13-be14-b16ad271a64a"  />
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedora Full Stack em formação
+
+<img data-importer="image" align="right" height="150" src="https://github.com/user-attachments/assets/55dd5e16-0064-4c13-be14-b16ad271a64a" />
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedora Full Stack em formação  
+🤖 Interessada em Inteligência Artificial e automações
 
 Tenho interesse especial no desenvolvimento de aplicações modernas, responsivas e funcionais, buscando unir uma boa experiência de usuário a um código organizado e eficiente.
 
-Atualmente, tenho experiência prática com HTML, CSS, JavaScript, Git, GitHub e Figma**, enquanto venho aprofundando meus conhecimentos em React, Node.js e APIs,.
+Tenho experiência prática com **HTML, CSS, JavaScript, Git, GitHub e Figma**. Também venho ampliando meus conhecimentos em **React, Node.js, APIs, Inteligência Artificial e automação de processos**.
 
-Gosto de aprender na prática, transformar ideias em projetos e encarar desafios que me façam evoluir como desenvolvedora. Também venho trabalhando constantemente na minha capacidade de **resolver problemas, entender diferentes abordagens e escrever códigos cada vez mais organizados e eficientes**.
+Durante minha preparação para o programa de estágio **iFood GEN AI 2027**, desenvolvi projetos práticos que me permitiram explorar agentes de IA, integração de ferramentas, análise de dados e construção de soluções automatizadas.
+
+Gosto de aprender na prática, transformar ideias em projetos e encarar desafios que me ajudem a evoluir como desenvolvedora.
 
 ---
 
-
-
 ## 🚀 Tecnologias e ferramentas
 
-<div align="left">
+### 💻 Desenvolvimento Web
 
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
+</div>
 
+### 🤖 Inteligência Artificial e Automação
+
+- n8n — criação e orquestração de workflows.
+- Agentes de IA — construção de agentes com ferramentas e memória.
+- Engenharia de Prompt — estruturação e otimização de instruções para modelos de IA.
+- Groq API — integração com modelos de linguagem.
+- GPT-OSS — utilização de modelos de linguagem em agentes de IA.
+- HTTP Request — integração com serviços e APIs externas.
+- Webhooks — comunicação entre aplicações e workflows.
+- Tratamento de erros — criação de fluxos para identificação e notificação de falhas.
+
+### 📊 Dados e Integrações
+
+- Google Sheets — armazenamento, consulta e atualização de dados.
+- JSON — estruturação e manipulação de dados.
+- Integração de APIs — comunicação entre diferentes serviços.
+- Aggregate no n8n — consolidação de dados para processamento.
+- Lovable — criação de interfaces e dashboards.
+
+### 🛠️ Versionamento e ferramentas
+
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
-
 </div>
 
 ---
 
 ## 🌱 Atualmente estudando
 
-* React e desenvolvimento de interfaces
-* Node.js e desenvolvimento backend
-* Consumo e integração de APIs
-* Estruturas de dados e resolução de problemas
-* Boas práticas e organização de código
+- React e desenvolvimento de interfaces.
+- Node.js e desenvolvimento backend.
+- Consumo e integração de APIs.
+- Inteligência Artificial aplicada a negócios.
+- Agentes inteligentes e automação de processos.
+- Estruturas de dados e resolução de problemas.
+- Boas práticas e organização de código.
 
 ---
 
@@ -60,19 +81,24 @@ Acredito que a melhor forma de aprender programação é **colocando a mão na m
 
 Por isso, procuro transformar aquilo que estudo em projetos, testar diferentes soluções e entender não apenas *como* algo funciona, mas também *por que* determinada abordagem é utilizada.
 
-Cada projeto representa uma oportunidade de aprender algo novo e melhorar como desenvolvedora.
+Durante minha jornada de aprendizado, tenho explorado tanto o desenvolvimento de aplicações web quanto a criação de soluções com Inteligência Artificial e automações.
+
+Cada projeto representa uma oportunidade de aprender algo novo, resolver problemas e melhorar minhas habilidades técnicas.
 
 ---
 
 ## 📌 Projetos
 
-Alguns dos projetos que fazem parte da minha jornada de desenvolvimento:
+Alguns projetos que fazem parte da minha jornada:
 
-* 🌐 **Portfólio pessoal** — desenvolvido para apresentar minha evolução, projetos e habilidades.
-* 📝 **Formulário multi-etapas** — projeto desenvolvido com HTML, CSS e JavaScript.
-* 🛒 **E-commerce** — projeto desenvolvido a partir de prototipação no Figma.
+- 🤖 **Agente Financeiro com IA** — agente desenvolvido com n8n para consultar, cadastrar e atualizar boletos utilizando ferramentas integradas ao Google Sheets.
+- 📊 **Dashboard de Vendas com IA** — dashboard integrado ao n8n, Google Sheets e Groq API para analisar dados comerciais e gerar relatórios com recomendações.
+- ✉️ **Automação de Frases Motivacionais** — workflow que busca frases, realiza a tradução e envia mensagens automaticamente por e-mail.
+- ⚙️ **Tratamento de Erros com n8n** — automação para identificar falhas em workflows e enviar notificações por e-mail.
+- 🌐 **Portfólio pessoal** — desenvolvido para apresentar minha evolução, projetos e habilidades.
+- 💅 **Landing Page Ceci Encanto Beauty** — projeto de desenvolvimento web com layout elaborado no Figma.
 
-> Estou constantemente adicionando novos projetos e aprimorando os projetos existentes.
+> Estou constantemente adicionando novos projetos e aprimorando minhas habilidades.
 
 ---
 
@@ -114,6 +140,6 @@ Alguns dos projetos que fazem parte da minha jornada de desenvolvimento:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=IsisHao3024N\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=IsisHao3024N&color=0e75b6&style=flat)
 
 </div>
